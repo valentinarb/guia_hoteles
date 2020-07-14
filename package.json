@@ -1,0 +1,16 @@
+{
+  "name": "guia_hoteles",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://valramir@bitbucket.org/valramir/guia_hoteles.git"
+  },
+  "author": "Valentina Ramirez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/valramir/guia_hoteles#readme"
+}
