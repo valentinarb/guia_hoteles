@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mi primer proyecto",
   "main": "index.html",
-  "scripts": {
+  "scripts": {"dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,5 +12,8 @@
   },
   "author": "Valentina Ramirez",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/valramir/guia_hoteles#readme"
+  "homepage": "https://bitbucket.org/valramir/guia_hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
